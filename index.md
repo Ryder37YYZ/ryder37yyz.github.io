@@ -1,6 +1,6 @@
 ## This is Ryder37.
 
-I am a student (GitHub: [Ryder37YYZ](https://github.com/Ryder37YYZ)) interested in programming and web design. This website is my personal portfolio that includes my past and current projects.
+I am a student (GitHub: [Ryder37YYZ](https://github.com/Ryder37YYZ)) interested in programming and web design. This website is my personal portfolio that includes my current and past projects.
 
 ### Projects
 
