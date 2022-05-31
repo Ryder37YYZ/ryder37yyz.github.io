@@ -8,6 +8,7 @@ Below are some of my featured projects.
 
 ```markdown
 Information will be posted here when available.
+```
 
 ### Contact Me
 
