@@ -1,6 +1,6 @@
 ## This is Ryder37.
 
-I am a student interested in programming and web design. This website is my personal portfolio that includes my past and current projects.
+I am a student (GitHub: [Ryder37YYZ](https://github.com/Ryder37YYZ)) interested in programming and web design. This website is my personal portfolio that includes my past and current projects.
 
 ### Projects
 
@@ -15,4 +15,4 @@ This website is proudly hosted on GitHub pages and is open-source. You can acces
 
 ### Contact Me
 
-To contact me about information on this website or my projects on GitHub, please email: ryder37.yyz@gmail.com.
+To contact me about information on this website or my projects on GitHub, please email: [ryder37.yyz@gmail.com](mailto:ryder37.yyz@gmail.com).
