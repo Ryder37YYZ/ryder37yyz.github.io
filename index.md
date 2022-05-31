@@ -11,7 +11,7 @@ Information will be posted here when available.
 ```
 ### About This Website
 
-This website is proudly hosted on GitHub Pages and is open-source. You can access the source code of this website by clicking the "View on Guthub" button.
+This website is proudly hosted on GitHub Pages and is open-source. You can access the source code of this website by clicking the "View on GitHub" button.
 
 ### Contact Me
 
