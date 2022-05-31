@@ -19,4 +19,4 @@ To contact me about information on this website or my projects on GitHub, please
 
 ### Disclaimer
 
-The information on this website is available to you "AS-IS" and "AS-AVAILABLE". I do not guarantee the accuracy of the information on this website in any form and I will not be responsible for any damage or loss incurred from the consumption of the information available on this website.
+The information on this website is available to you "AS-IS" and "AS-AVAILABLE". I do not guarantee the accuracy of the information on this website in any form and I will not be responsible for any damage or loss incurred from the consumption or usage of the information available on this website.
