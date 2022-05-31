@@ -8,10 +8,11 @@ Below are some of my featured projects.
 
 ```markdown
 Information will be posted here when available.
+Projects will be added as they are being worked on.
 ```
 ### About This Website
 
-This website is proudly hosted on GitHub Pages and is open-source. You can access the source code of this website by clicking the "View on GitHub" button.
+This website is proudly hosted on GitHub Pages and is open-source. You can access the source code of this website by clicking the "View on GitHub" button. This website is not intended to engage in commercial activities.
 
 ### Contact Me
 
