@@ -12,7 +12,7 @@ Projects will be added as they are being worked on.
 ```
 ### About This Website
 
-This website is proudly hosted on GitHub Pages and is open-source. You can access the source code of this website by clicking on the "View on GitHub" button. This website is not intended to engage in commercial activities.
+This website is proudly hosted on GitHub Pages and is open-source. You can access the source code of this website by clicking on the "View on GitHub" button. This website is not intended to engage in commercial activities. Oh, and you probably have guessed where the website name took inspiration from, if you are into Kdramas.
 
 ### Contact Me
 
