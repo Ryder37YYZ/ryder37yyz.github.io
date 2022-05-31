@@ -9,11 +9,10 @@ Below are some of my featured projects.
 ```markdown
 Information will be posted here when available.
 ```
+### About This Website
+
+This website is proudly hosted on GitHub pages and is open-source. You can access the source code of this website by clicking the "View on Guthub" button.
 
 ### Contact Me
 
 To contact me about information on this website or my projects on GitHub, please email: ryder37.yyz@gmail.com.
-
-### About This Website
-
-This website is proudly hosted on GitHub pages and is open-source. You can access the source code of this website by clicking the "View on Guthub" button.
